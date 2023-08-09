@@ -1,0 +1,28 @@
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.exe
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.deps.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.runtimeconfig.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.runtimeconfig.dev.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.dll
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.AssemblyInfoInputs.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.AssemblyInfo.cs
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.dll
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.genruntimeconfig.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.exe
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.deps.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.runtimeconfig.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.runtimeconfig.dev.json
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.dll
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\bin\Debug\netcoreapp3.1\bestDEUce.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.AssemblyInfoInputs.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.AssemblyInfo.cs
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.dll
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\bestDEUce (2)\bestDEUce\obj\Debug\netcoreapp3.1\bestDEUce.genruntimeconfig.cache
