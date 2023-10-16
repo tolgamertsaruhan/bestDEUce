@@ -1,4 +1,3 @@
-
 # bestDEUce
 bestDEUce is a console-based battleship game and executes inputs on a 30x12 coordinate plane.
 
